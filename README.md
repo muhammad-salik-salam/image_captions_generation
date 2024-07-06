@@ -11,7 +11,6 @@ To get started with the project, follow these steps:
 
     ```bash
     git clone https://github.com/imsalik/image_captions_generation.git
-    cd image_captions_generation
     ```
     
 ## Model Architecture
