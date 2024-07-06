@@ -9,7 +9,7 @@ The Image Caption Generation project aims to automatically generate descriptive 
 ## Installation
 To get started with the project, follow these steps:
 
-    ```bash
+    ```
     git clone https://github.com/imsalik/image_captions_generation.git
     ```
     
